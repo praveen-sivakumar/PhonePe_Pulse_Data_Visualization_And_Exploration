@@ -41,3 +41,7 @@ This project is to create a live geo visualization dashboard that displays infor
 * ### DashBoard.py
 
      In this file, we write the code for streamlit application (UI) and the features like charts, dataframes, geo-visualization and also for the data retrieval.
+
+* ### states_india.geojson
+
+     This geojson file is required for geo-visualization using choropleth from the plotly-express library. 
